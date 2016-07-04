@@ -1,0 +1,8 @@
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\bin\Release\ClipStudio-AutoAction-Editor.exe.config
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\bin\Release\ClipStudio-AutoAction-Editor.exe
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\bin\Release\ClipStudio-AutoAction-Editor.pdb
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\obj\Release\ClipStudio_AutoAction_Editor.Form1.resources
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\obj\Release\ClipStudio_AutoAction_Editor.Properties.Resources.resources
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\obj\Release\ClipStudio-AutoAction-Editor.csproj.GenerateResource.Cache
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\obj\Release\ClipStudio-AutoAction-Editor.exe
+C:\Users\fj\Documents\Visual Studio 2015\Projects\ClipStudio-AutoAction-Editor\ClipStudio-AutoAction-Editor\obj\Release\ClipStudio-AutoAction-Editor.pdb
