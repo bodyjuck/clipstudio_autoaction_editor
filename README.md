@@ -5,8 +5,8 @@ CLIPSTUDIO PAINT のオートアクションを別のオートアクションセ
 .NET Framework 2.0 以降  
 Windows ならば問題なく実行できると思われる．Mac では mono framework をインストールすれば動かせるはず（未検証）．
 
-##実行
-exe 単体で動く．exe のみは以下のURLからダウンロードできる．
+##実行ファイル
+exe のみは以下のURLからダウンロードできる．
 [https://github.com/dskjal/clipstudio_autoaction_editor/raw/master/ClipStudio-AutoAction-Editor/ClipStudio-AutoAction-Editor/bin/Release/ClipStudio-AutoAction-Editor.exe]
 (https://github.com/dskjal/clipstudio_autoaction_editor/raw/master/ClipStudio-AutoAction-Editor/ClipStudio-AutoAction-Editor/bin/Release/ClipStudio-AutoAction-Editor.exe)
 
