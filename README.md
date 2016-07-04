@@ -1,0 +1,2 @@
+# clipstudio_autoaction_editor
+CLIPSTUDIO PAINT のオートアクションを別のオートアクションセットへ移動させる
