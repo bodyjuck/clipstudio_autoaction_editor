@@ -13,7 +13,7 @@ exe のみは以下のURLからダウンロードできる．
 ##使い方
 1. laf ファイルをリストボックスへドラッグする
 2. 移動したいオートアクションを選択して <- か -> で移動する
-3. 保存する．古いファイルは .bak としてバックアップされる．
+3. 保存する．古いファイルは .bak としてバックアップされる
 
 laf ファイルは Windows では  
 %userprofile%\Documents\CELSYS\CLIPStudioPaintVer1_5_0\Action  
