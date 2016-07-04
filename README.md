@@ -11,10 +11,10 @@ exe のみは以下のURLからダウンロードできる．
 (https://github.com/dskjal/clipstudio_autoaction_editor/raw/master/ClipStudio-AutoAction-Editor/ClipStudio-AutoAction-Editor/bin/Release/ClipStudio-AutoAction-Editor.exe)
 
 ##使い方
-1. Laf ファイルをリストボックスへドラッグする
+1. laf ファイルをリストボックスへドラッグする
 2. 移動したいオートアクションを選択して <- か -> で移動する
 3. 保存する．古いファイルは .bak としてバックアップされる．
 
-Laf ファイルは Windows では  
+laf ファイルは Windows では  
 %userprofile%\Documents\CELSYS\CLIPStudioPaintVer1_5_0\Action  
 にある．
