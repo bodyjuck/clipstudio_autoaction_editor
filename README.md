@@ -3,7 +3,7 @@ CLIPSTUDIO PAINT のオートアクションを別のオートアクションセ
 
 ##必要なライブラリ  
 .NET Framework 2.0 以降  
-Windows ならば問題なく実行できると思われる．Mac では mono framework をインストールすれば動かせるはず（未検証）．
+Windows ならばおそらくそのまま実行できる．Mac では mono framework をインストールすれば動かせるはず（未検証）．
 
 ##実行ファイル
 exe のみは以下のURLからダウンロードできる．
