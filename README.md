@@ -9,3 +9,12 @@ Windows ならば問題なく実行できると思われる．Mac では mono fr
 exe 単体で動く．exe のみは以下のURLからダウンロードできる．
 [https://github.com/dskjal/clipstudio_autoaction_editor/raw/master/ClipStudio-AutoAction-Editor/ClipStudio-AutoAction-Editor/bin/Release/ClipStudio-AutoAction-Editor.exe]
 (https://github.com/dskjal/clipstudio_autoaction_editor/raw/master/ClipStudio-AutoAction-Editor/ClipStudio-AutoAction-Editor/bin/Release/ClipStudio-AutoAction-Editor.exe)
+
+##使い方
+1. Laf ファイルをリストボックスへドラッグする
+2. 移動したいオートアクションを選択して <- か -> で移動する
+3. 保存する．古いファイルは .bak としてバックアップされる．
+
+Laf ファイルは Windows では  
+%userprofile%\Documents\CELSYS\CLIPStudioPaintVer1_5_0\Action  
+にある．
