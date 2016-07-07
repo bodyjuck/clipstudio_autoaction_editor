@@ -17,4 +17,4 @@ exe のみは以下のURLからダウンロードできる．
 
 laf ファイルは Windows では  
 %userprofile%\Documents\CELSYS\CLIPStudioPaintVer1_5_0\Action  
-にある．
+にある（2016年7月現在）．
